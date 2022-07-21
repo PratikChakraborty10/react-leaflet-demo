@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+     "properties": {  }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 1,
+        "FACILITYID": 10,
+        "NAME": "Talking Lands Exclusive Residential Property",
+        "NAME_FR": "Planchodrome Bearbrook",
+        "ADDRESS": "Near Racecourse",
+        "ADDRESS_FR": "Near Racecourse",
+        "FACILITY_T": "flat",
+        "FACILITY_1": "plat",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2022/07/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Race Course, Bengaluru",
+        "FACILITY_F": "De voisinage : petite installation assurant des services à 10 000 résidents ou moins.",
+        "DESCRIPTIO": "Expensive Property, Near Race Course",
+        "DESCRIPT_1": "North Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.980145, 77.579475]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2,
+        "FACILITYID": 20,
+        "NAME": "Talking Lands Exclusive Residential Property",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Airport",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Moderately Priced Property, Near Airport",
+        "DESCRIPT_1": "East Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.977767, 77.584075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 3,
+        "FACILITYID": 30,
+        "NAME": "Talking Lands Exclusive Property - 112",
+        "NAME_FR": "Planchodrome Walter-Baker",
+        "ADDRESS": "100 Charlie Rogers Place",
+        "ADDRESS_FR": "100, place Charlie Rogers",
+        "FACILITY_T": "bowl",
+        "FACILITY_1": "bol",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Gym and Fitness and Stadium",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Best for people who are young and want to be active",
+        "DESCRIPT_1": "West Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.974212, 77.589096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 4,
+        "FACILITYID": 40,
+        "NAME": "Talking Lands Exclusive Property - 2022",
+        "NAME_FR": "Lieu de planchodrome itinérant",
+        "ADDRESS": "2785 8th Line Road",
+        "ADDRESS_FR": "2785, chemin 8th Line",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor - Mobile",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Near Marketplace",
+        "FACILITY_F": "Centre communautaire de Metcalfe - Lieu de planchodrome itinérant",
+        "DESCRIPTIO": "Property for Old Aged Persons",
+        "DESCRIPT_1": "South Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.965516, 77.577038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2,
+        "FACILITYID": 20,
+        "NAME": "Talking Lands Exclusive Residential Property",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Airport",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Moderately Priced Property, Near Airport",
+        "DESCRIPT_1": "East Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.977782, 77.596973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2,
+        "FACILITYID": 20,
+        "NAME": "Talking Lands Exclusive Residential Property",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Airport",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Moderately Priced Property, Near Airport",
+        "DESCRIPT_1": "East Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.972772, 77.599973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PARK_ID": 2,
+        "FACILITYID": 20,
+        "NAME": "Talking Lands Exclusive Residential Property",
+        "NAME_FR": "Planchodrome Bob-MacQuarrie (Parc SK8 Extreme)",
+        "ADDRESS": "1490 Youville Drive",
+        "ADDRESS_FR": "1490, promenade Youville",
+        "FACILITY_T": "other",
+        "FACILITY_1": "autre",
+        "ACCESSCTRL": "no/non",
+        "ACCESSIBLE": "no/non",
+        "OPEN": null,
+        "NOTES": "Outdoor",
+        "MODIFIED_D": "2018/01/18",
+        "CREATED_DA": null,
+        "FACILITY": "Neighbourhood : Airport",
+        "FACILITY_F": "Communautaire : installation de taille moyenne assurant des services à 40 000 résidents ou plus.",
+        "DESCRIPTIO": "Moderately Priced Property, Near Airport",
+        "DESCRIPT_1": "East Facing Property",
+        "PLOT_IMG": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "PLOT_IMG_2":"https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+        "PICTURE_LI": null,
+        "PICTURE_DE": null,
+        "PICTURE__1": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.977782, 77.596973]
+      }
+    }
+  ]
+}
